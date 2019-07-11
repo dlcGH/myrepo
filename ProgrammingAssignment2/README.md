@@ -1,1 +1,0 @@
-# This is Donald L. Champagne's submission for Programming Assignment 2
